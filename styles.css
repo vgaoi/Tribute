@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+h1 {
+    color: white;
+    font-family: verdana;
+    font-size: 300%;
+    text-align: center;
+    
+}
+
+h2{
+    font-size: 3.5em;
+    text-align:center;
+    color: white;
+
+}
+
+img{
+    border: 5px solid #ffffff
+}
+
+body {
+    background-color: black;
+  }
+
+p {
+    color: white;
+    font-family: courier;
+    font-size: 160%;
+    text-align: center;
+}
+
+li a{
+    text-align: center;
+    display: block;
+    color:white;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    border-style: solid;
+}
